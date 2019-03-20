@@ -1,0 +1,8 @@
+{
+  "name": "lorax-bot",
+  "version": "1.0.0",
+  "description": "when !trees is called, anything after will be repeated by thr trees.",
+  "main": "bot.js",
+  "author": "Luke Hansen",
+  "dependencies": {}
+}
